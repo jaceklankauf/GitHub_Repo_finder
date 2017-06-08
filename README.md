@@ -1,1 +1,1 @@
-# GitHub_Repo_finder
+# GitHub Finder
